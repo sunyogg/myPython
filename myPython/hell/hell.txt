@@ -1,0 +1,3 @@
+hello from another directory, my name is hell and i know your name is alex.
+whatever now i have to go to do some work.
+hello hell my name is not alex

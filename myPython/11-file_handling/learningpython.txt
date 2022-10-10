@@ -1,0 +1,7 @@
+In python I learned about variables, integers, floats, strings.
+In python I learned about statements like if, else, elif.
+In python I learned about while loops and while loops.
+In python I learned about list, dictionaries, tuples.
+In python I leanred about various method of python.
+In python I learned about functions which perform certain tasks.
+In python I learned about creating a class which can solve real world problem.

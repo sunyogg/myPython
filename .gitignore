@@ -1,6 +1,15 @@
 # Mac Specific
 .DS_Store
 
+# for pdfs
+*.pdf
+
+# directories
+resources-pcc/
+images/
+bootcamp/
+my_projects/Data_visualization/dataVizData/
+
 # for Intelli
 .idea
 
